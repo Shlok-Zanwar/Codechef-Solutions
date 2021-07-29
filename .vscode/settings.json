@@ -84,5 +84,8 @@
         "**/.DS_Store": true,
         "**/*.exe" : true
     },
-    "python.pythonPath": "C:\\Users\\princ\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+    "python.pythonPath": "C:\\Users\\princ\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "java.project.sourcePaths": [
+        ""
+    ]
 }
